@@ -1,0 +1,12 @@
+Sun Jul 31 08:17:52 2022  Rob Lauer  <rlauer6@comcast.net>
+
+	[BigBang]:
+	* README.md: new
+	* perl/Dockerfile: new
+	* perl/Makfile: new
+	* perl/make-a-perl.sh: new
+	* perl/patch.pl: new
+	* test/Dockerfile: new
+	* test/Makefile: new
+	* test/test-module: new
+

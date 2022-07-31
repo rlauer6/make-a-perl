@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# -*- mode: sh; -*-
+
+cpanm --install-deps -n $1
+cpanm -v $1
